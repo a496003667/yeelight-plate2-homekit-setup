@@ -1,5 +1,7 @@
 # Yeelight 奇光板接入 Apple 家庭：成功配置方法
 
+中文 | [English](README.en.md)
+
 这份记录介绍如何将 Yeelight 智能奇光板（`yeelink.light.plate2`）通过 Home Assistant 接入 Apple 家庭，并使用家庭 App **原生的颜色、色温和亮度控件**。
 
 已在一台 LAN 固件版本为 `16` 的奇光板上通过 Mac 家庭 App 实测：选择绿色后灯板变绿；选择冷白色温后灯板变白；亮度从约 31% 调到 70% 后灯板变亮。
